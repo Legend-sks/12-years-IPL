@@ -10,4 +10,4 @@ Questions related to the data set that will be answered here : 
 
 Here, I am trying to analyze data from first 12 seasons of IPL and provide insights from the dataset. There are two data sets, 1. Deliveries Data (ball by ball) and 2. Matches Data (summary data for each game).
 
-This is a descriptive analysis.
+This is a descriptive analysis. you can find the details about this work in the blog : 
