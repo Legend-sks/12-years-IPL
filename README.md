@@ -10,6 +10,14 @@ Files in this repository:
 3. deliveries.csv : csv file containing ball by ball data for 12 years of IPL games
 4. matches.csv : CSV file containing each match result, teams, winner, umpire, venue etc..
  
+ 
+Details about the jupitor notebook:
+Analysis has been performed using below three libraries:
+1. Pandas
+2. Numpy
+3. Matplotlib for visualization
+Notebook contains visuals to explain all the analysis done to answer the questions/objectives.
+
 Objectives:
 Questions related to the data set that will be answered here : 
 1. Which is the best performing team in IPL history, based on total number of titles and matches won?
